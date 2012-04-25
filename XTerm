@@ -1,0 +1,8 @@
+XTerm*Background:	black
+XTerm*Foreground:	linen
+xterm*faceName: Monospace-9
+XTerm*saveLines:	1000
+# for meta key
+XTerm*eightBitInput:   false
+XTerm*metaSendsEscape: true
+XTerm*vt100*geometry:   120x40
